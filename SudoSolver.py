@@ -42,6 +42,7 @@ def Suduko(grid, row, col):
 	return False
 
 '''0 means the cells where no value is assigned'''
+'''Inserting our puzzle'''
 grid = [[2, 5, 0, 0, 3, 0, 9, 0, 1],
         [0, 1, 0, 0, 0, 4, 0, 0, 0],
 	[4, 0, 7, 0, 0, 0, 2, 0, 8],
